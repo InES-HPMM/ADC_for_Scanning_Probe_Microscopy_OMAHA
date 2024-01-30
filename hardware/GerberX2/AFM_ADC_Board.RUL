@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: C:\Users\wesr.CLT-DSK-T-6036\Documents\EPFL_AtomicForceMicroscope\altium\afm_adc_v1.0\AFM_ADC_Board.PcbDoc
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance_PowerLayer|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=DiffPairClearance|Scope=Board|Minimum=3.94
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=4.90
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.18
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance_Ground|Scope=Board|Minimum=3.94
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

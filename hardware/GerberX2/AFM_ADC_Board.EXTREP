@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: AFM_ADC_Board.GBR   08.11.2023  15:59:31
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                Top Layer                               
+.gbr                Ground Layer                            
+.gbr                Power Layer                             
+.gbr                Bottom Layer                            
+.gbr                Bottom Overlay                          
+.gbr                Bottom Solder                           
+.gbr                Bottom Paste                            
+.gbr                Top Overlay                             
+.gbr                Top Paste                               
+.gbr                Top Solder                              
+.gbr                Board Outline                           
+.gbr                Filling                                 
+.gbr                Capping                                 
+.gbr                Non-plated through-hole drill file      
+.gbr                Plated through-hole drill file          
+------------------------------------------------------------------------------------------
