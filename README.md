@@ -19,4 +19,4 @@ The ADC is inteded to be used with the [Scanning Probe Microscopy (SPM) controll
 
 ## Bringup
 
-For the bringup, the ADC has to be programmed to work as inteded. A quick and easy manual for this process can be found in the wiki page of this repository.
+For the bringup, the ADC has to be programmed to work as inteded. A quick and easy manual for this process can be found in the [wiki page](https://github.com/InES-HPMM/ADC_for_Scanning_Probe_Microscopy_OMAHA/wiki) of this repository.
